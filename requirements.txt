@@ -1,0 +1,4 @@
+requests
+lxml
+Beautifulsoup4
+telebot
